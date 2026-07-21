@@ -39,7 +39,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 </div>
 <div align="center">
 
-![PCB component side](doc/Sonomètre_PCB.png)
+(doc/Sonomètre_PCB.png)
 
 **PCB — Physical Board**
 
