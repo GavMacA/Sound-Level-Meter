@@ -46,3 +46,8 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 </div>
 
 ---
+# Contributors
+**
+- Gavin Mac Aonghusa
+- Titouan Bocquet
+- Bosco de Rauglaudre**
