@@ -44,6 +44,27 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 **PCB — Physical Board**
 
 </div>
+---
+
+# Project Structure
+
+Sound-Level-Meter/
+├── README.md
+├── doc/
+│   ├── Final_Report.pdf
+│   ├── Components_List.xlsx
+│   └── images/
+│       ├── Schematic.png
+│       ├── Sonometre1.png
+│       ├── Sonometre2.png
+│       └── Sonometre_PCB.jpeg
+├── LTSpice/
+│   └── sound_level_meter.asc
+├── kicad/
+│   ├── sound_level_meter.kicad_pro
+│   ├── sound_level_meter.kicad_sch
+│   └── sound_level_meter.kicad_pcb
+
 
 ---
 
