@@ -37,5 +37,12 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 **PCB — Reverse**
 
 </div>
+<div align="center">
+
+![PCB component side](doc/Sonomètre2.png)
+
+**PCB — Physical**
+
+</div>
 
 ---
