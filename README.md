@@ -24,7 +24,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 
 <div align="center">
 
-![PCB back side](doc/Sonomètre1.png)
+![PCB back side](doc/Sonometre1.png)
 
 **PCB — Component sides**
 
@@ -32,7 +32,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 
 <div align="center">
 
-![PCB component side](doc/Sonomètre2.png)
+![PCB component side](doc/Sonometre2.png)
 
 **PCB — Reverse**
 
