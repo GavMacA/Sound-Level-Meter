@@ -3,7 +3,8 @@ A collaborative start to finish design of a sound level meter: Circuit Design, S
 
 
 ---
-## Features
+**Features**
+
 - Measures sound pressure level (70–85 dB SPL)
 - 5 dB resolution
 - LED indication of sound level
@@ -12,6 +13,7 @@ A collaborative start to finish design of a sound level meter: Circuit Design, S
 - Custom PCB designed in KiCad and printed
 
 **Overview**
+
 The goal of this project was to design a sound level meter (sonomètre) under the following component constraints:
 - EM100T
 - JFET and bipolar transistors, and diodes
@@ -29,6 +31,7 @@ The project followed a complete hardware development workflow:
 6. Assembly and testing
 
 **Key Concepts**
+
 - Simulations: Modelling and simulating circuit (LTSpice) to test viability of initial design concept
 - Measure of Sound Level: Peak/Envelope Detection, Calculation of of level (dB SPL)
 - Calibration: Selection of physical components to reach desired output for known source
