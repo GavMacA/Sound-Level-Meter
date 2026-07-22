@@ -45,9 +45,9 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 
 </div>
 ---
+
 # Result
 
-</div>
 <div align="center">
 
 ![LED Thresholds](doc/images/final_result.png)
@@ -57,7 +57,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 ---
 # Project Structure
 
-```
+```text
 Sound-Level-Meter/
 ├── README.md
 ├── doc/
