@@ -10,7 +10,7 @@ A collaborative start to finish design of a sound level meter: Circuit Design, S
 - LED indication of sound level
 - Analog signal conditioning using JFET/BJT circuitry
 - Designed and simulated in LTSpice
-- Custom PCB designed in KiCad and printed
+- Custom PCB designed in KiCad and fabricated in university lab
 
 **Overview**
 
@@ -68,17 +68,20 @@ The project followed a complete hardware development workflow:
 
 ---
 
-# Result
+## Result
 
 <div align="center">
 
 ![LED Thresholds](doc/images/final_result.png)
 
 **LED dB Threshold**
+
+As shown above, given our chosen resolution of 5dB each LED is illuminated within 1-2dB of reaching the threshold sound level
+
 </div>
 ---
 
-# Project Structure
+## Project Structure
 
 ```bash
 Sound-Level-Meter/
