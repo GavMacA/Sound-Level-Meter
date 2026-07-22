@@ -53,8 +53,9 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 ![LED Thresholds](doc/images/final_result.png)
 
 **LED dB Threshold**
-
+</div>
 ---
+
 # Project Structure
 
 ```bash
