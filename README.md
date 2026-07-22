@@ -57,7 +57,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 ---
 # Project Structure
 
-```text
+```bash
 Sound-Level-Meter/
 ├── README.md
 ├── doc/
