@@ -56,6 +56,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 
 ---
 # Project Structure
+
 ```
 Sound-Level-Meter/
 ├── README.md
@@ -71,11 +72,10 @@ Sound-Level-Meter/
 │       └── final_result.png
 ├── LTSpice/
 │   └── sound_level_meter.asc
-├── kicad/
-│   ├── sound_level_meter.kicad_pro
-│   ├── sound_level_meter.kicad_sch
-│   └── sound_level_meter.kicad_pcb
-
+└── kicad/
+    ├── sound_level_meter.kicad_pro
+    ├── sound_level_meter.kicad_sch
+    └── sound_level_meter.kicad_pcb
 ```
 ---
 
