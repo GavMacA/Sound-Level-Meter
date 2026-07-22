@@ -30,15 +30,14 @@ The project followed a complete hardware development workflow:
 5. PCB design in KiCad
 6. Assembly and testing
 
-**Key Concepts**
-
-- Simulations: Modelling and simulating circuit (LTSpice) to test viability of initial design concept
-- Measure of Sound Level: Peak/Envelope Detection, Calculation of of level (dB SPL)
-- Calibration: Selection of physical components to reach desired output for known source
-- Physical Conception: PCB design (KiCad) and printing
-- Presentation of Results: Functional diagrams, graphs and simulation captures
-
 ---
+## Schematic
+
+<div align="center">
+
+![Complete Circuit](doc/images/Schematic.png)
+
+</div>
 
 ## PCB
 
