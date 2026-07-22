@@ -53,11 +53,13 @@ Sound-Level-Meter/
 ├── doc/
 │   ├── Final_Report.pdf
 │   ├── Components_List.xlsx
+│   ├── oral-presentation.pptx
 │   └── images/
 │       ├── Schematic.png
 │       ├── Sonometre1.png
 │       ├── Sonometre2.png
-│       └── Sonometre_PCB.jpeg
+│       ├── Sonometre_PCB.jpeg
+│       └── final_result.png
 ├── LTSpice/
 │   └── sound_level_meter.asc
 ├── kicad/
