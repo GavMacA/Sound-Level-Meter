@@ -9,7 +9,7 @@ The goal of this project was to design a sound level meter (sonomètre) under th
 - LEDs
 - 9 V Power supply
 
-To complete this project a theoretical circuit was conceptualised, LTSpice was used to simulate, test and adapt the circuit. A prototype was then developed using a breadboard and lab bench. The final PCB design was then created on KiCad and printed for final testing and results.
+To complete this project a theoretical circuit was conceptualised, LTSpice was used to simulate, test and adapt the circuit. A prototype was then developed using a breadboard and lab bench. The final PCB design was then created on KiCad and printed for final testing and results. We achieved accurate sound level for 70dB, 75dB, 80dB and 85dB for our chosen resolution of 5dB.
 
 **Key Concepts**
 - Simulations: Modelling and simulating circuit (LTSpice) to test viability of initial design concept
@@ -45,7 +45,16 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 
 </div>
 ---
+# Result
 
+</div>
+<div align="center">
+
+![LED Thresholds](doc/images/final_result.png)
+
+**LED dB Threshold**
+
+---
 # Project Structure
 ```
 Sound-Level-Meter/
