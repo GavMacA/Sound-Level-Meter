@@ -1,6 +1,16 @@
 # Sound-Level-Meter
 A collaborative start to finish design of a sound level meter: Circuit Design, Simulation (LTSpice), PCB (KiCad)
 
+
+---
+## Features
+- Measures sound pressure level (70–85 dB SPL)
+- 5 dB resolution
+- LED indication of sound level
+- Analog signal conditioning using JFET/BJT circuitry
+- Designed and simulated in LTSpice
+- Custom PCB designed in KiCad and printed
+
 **Overview**
 The goal of this project was to design a sound level meter (sonomètre) under the following component constraints:
 - EM100T
@@ -9,7 +19,14 @@ The goal of this project was to design a sound level meter (sonomètre) under th
 - LEDs
 - 9 V Power supply
 
-To complete this project a theoretical circuit was conceptualised, LTSpice was used to simulate, test and adapt the circuit. A prototype was then developed using a breadboard and lab bench. The final PCB design was then created on KiCad and printed for final testing and results. We achieved accurate sound level for 70dB, 75dB, 80dB and 85dB for our chosen resolution of 5dB.
+The project followed a complete hardware development workflow:
+
+1. Circuit design
+2. LTSpice simulation
+3. Breadboard prototyping
+4. Calibration
+5. PCB design in KiCad
+6. Assembly and testing
 
 **Key Concepts**
 - Simulations: Modelling and simulating circuit (LTSpice) to test viability of initial design concept
@@ -21,6 +38,15 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 ---
 
 ## PCB
+
+<div align="center">
+
+![PCB physical board](doc/images/Sonometre_PCB.jpeg)
+
+**PCB — Physical Board**
+
+</div>
+
 
 <div align="center">
 
@@ -37,13 +63,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 **PCB — Reverse**
 
 </div>
-<div align="center">
 
-![PCB physical board](doc/images/Sonometre_PCB.jpeg)
-
-**PCB — Physical Board**
-
-</div>
 ---
 
 # Result
@@ -61,9 +81,7 @@ To complete this project a theoretical circuit was conceptualised, LTSpice was u
 ```bash
 Sound-Level-Meter/
 ├── README.md
-
 ├── doc/
-
 │   ├── Final_Report.pdf
 │   ├── Components_List.xlsx
 │   ├── oral-presentation.pptx
@@ -81,8 +99,16 @@ Sound-Level-Meter/
     └── sound_level_meter.kicad_pcb
 ```
 ---
-
-# Contributors
+## My Contribrution
+In this project my primary responsibilities included:
+- Signal Conditioning (Amplification, Impedance Adaptation, Villard Circuit)
+  - Analogue circuit design
+  - LTSpice simulation
+- Universal circuit
+  - Breadboard prototype
+  - Testing and calibration
+  
+## Contributors
 - Gavin Mac Aonghusa
 - Titouan Bocquet
 - Bosco de Rauglaudre
